@@ -54,6 +54,17 @@ button{
     right: -300px;
     padding-right: 30px;
 }
+.video{
+    display: grid;
+    grid-template-columns: auto;
+    grid-row: auto auto ;
+    justify-content: center;
+    gap: 30px;
+    position: relative;
+    top: 500px;
+    right: 300px;
+    padding-right: -30px;
+}
 img[alt="onEar"]{
     padding-left: 30px;
 }
