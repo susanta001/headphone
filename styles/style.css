@@ -61,7 +61,7 @@ button{
     justify-content: center;
     gap: 30px;
     position: relative;
-    top: 300px;
+    top: 100px;
     right: 300px;
     padding-right: -30px;
 }
